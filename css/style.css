@@ -1,0 +1,78 @@
+body {
+background-color:#3399ff;	
+font-family:"Helvatica", "Arial" ,san-serif;	
+}
+#listBooks  {
+	
+text-align:center;	
+}
+h1{
+color:white;	
+margin:0px outo;
+padding:20px;		
+}
+ul{
+padding:0;	
+}
+p {
+  background-color: #fff;
+  color: #666;
+  padding: 10px;
+  display: inline-block;
+  margin: 20px auto 20px auto;
+  width: 80%;
+  border-radius: 5px;
+  text-align: center;
+}
+
+
+li {
+	background-color:white;
+	color:#000;
+	font-size:20px;
+	list-style-type:none;
+	border:1px solid black;
+	padding:10px;
+	margin-bottom:10px;
+	margin:0px auto;
+	width:20%;
+	border-radius=3px;
+}
+
+.item{
+	background-color:#fff;
+	color:#000;
+}
+input[type='text']{
+
+	font-size:12px;
+	padding:6px;
+	border:1px solid #000;
+	border-radius=3px;
+
+}
+
+input[type='submit']{
+	border:none;
+	padding:5px;
+	background-color:#fff;
+	color:#000;
+    border-radius:8px;
+}
+
+#newItemButton{
+	
+	display:none;
+}
+#itemField{
+	
+	margin-top:60px;
+	width:10%;
+}
+
+
+
+
+
+
+
